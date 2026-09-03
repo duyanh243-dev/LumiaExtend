@@ -40,7 +40,8 @@ It only works with the second (2nd) display; it will not function with other dis
 3. Afterward, attempt to install the two main files mentioned above again.
 
 There may be other undiscovered issues; please provide feedback via my Telegram link below.
-> *Note: Development time is very limited; work is mostly done during long holidays.*
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LumiaExtend)
+> *Note: Development time is very limited, work is mostly done during long holidays.*
 # Donate
 If you find this app useful, please support me :)
 
