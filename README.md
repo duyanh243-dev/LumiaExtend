@@ -35,3 +35,8 @@ If installation on the Lumia WP fails:
 
 There may be other undiscovered issues; please provide feedback via my Telegram link below.
 Development time is very limited; work is mostly done during long holidays.
+
+# Donate
+If you find this app useful, please support me :)
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal)](https://paypal.me/duyanh243)
