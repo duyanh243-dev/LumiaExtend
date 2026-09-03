@@ -47,3 +47,4 @@ There may be other undiscovered issues; please provide feedback via my Telegram 
 If you find this app useful, please support me :)
 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal)](https://paypal.me/duyanh243)
+
